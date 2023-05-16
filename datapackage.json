@@ -156,7 +156,7 @@
     {
       "name": "haushalt-brandenburg-enriched",
       "format": "csv",
-      "path": "haushalt-brandenburg-enriched.csv",
+      "path": "https://storage.openspending.org/brandenburg/haushalt-brandenburg-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 8038368,
       "dialect": {
